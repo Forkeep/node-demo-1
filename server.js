@@ -35,7 +35,7 @@ var server = http.createServer(function (request, response) {
             <link rel="stylesheet" href="/style">
         </head>
         <body>
-        这是用node.js写的服务器demo~
+        <h1>这是用node.js写的服务器demo~</h1>
         
         </body>
         <script src="/js"></script>
